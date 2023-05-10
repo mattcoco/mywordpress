@@ -1,2 +1,2 @@
 # mywordpress
-UN directorio para hacer mis pruebas con Wordpress
+Un directorio para hacer mis pruebas con Wordpress
